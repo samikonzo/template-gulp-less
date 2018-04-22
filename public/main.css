@@ -1,0 +1,7 @@
+body {
+  background: pink;
+  border: 1px solid blue;
+}
+body div {
+  background: blue;
+}
